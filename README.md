@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm GenericNight</h1>
 <h3 align="center">A back-end developer from Türkiye</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
